@@ -1,6 +1,6 @@
 {
-   "name": "Резерв",
-   "short_name": "Резерв",
+   "name": "Резерв+",
+   "short_name": "Резерв+",
    "start_url": "/pwa-plus/",
    "display": "standalone",
    "background_color": "#e1decb",
